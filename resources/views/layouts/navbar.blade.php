@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav" style="background-color: #111!important;">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
         <span class="d-block d-lg-none  mx-0 px-0"><img src="{{ asset('profile/img/logo-white.png') }}" alt="" class="img-fluid"></span>
         <span class="d-none d-lg-block">

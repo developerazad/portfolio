@@ -1,12 +1,11 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
     <div class="my-auto" >
-        <img src="{{ asset('profile/img/logo-s.png') }}" class="img-fluid mb-3" alt="">
-        <h2 class="mb-0" style="font-family: none;">Md. Azharul
-            <span class="text-primary">Islam</span>
+        <h2 class="mb-0" style="font-family: none;">Md. <span class="text-primary">Azharul</span>
+            Islam
         </h2>
-        <div class="mb-5">Full Stack Web Developer/PHP Developer/Programmer</div>
+        <div class="mb-5">Full Stack Web Developer/PHP Developer/PHP Programmer</div>
         <p class="mb-5" style="max-width: 500px;" >
-            I'd like to introduce myself as a Professional Web Developer. Working in this field over the last couple of years and have designed and developed wide range of projects/web applications. Have completed my graduation from Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur at the department of Electronics & Communication Engineering(ECE). Right now working in a well known software company as a Programmer named ATI <span style="color: green;">Limited</span> located in Dhaka.
+            I would like to introduce myself as a Professional Web Developer. Working in this field over the last couple of years and have designed and developed wide range of projects/web applications. Have completed my graduation from Hajee Mohammad Danesh Science and Technology University (HSTU), Dinajpur at the department of <span style="color: green;">Electronics & Communication Engineering(ECE)</span>. Right now working in a well known software company as a <span style="color: green;">PHP Programmer</span> named ATI Limited located in Dhaka.
         </p>
         <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
