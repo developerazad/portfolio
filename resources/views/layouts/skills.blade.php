@@ -46,7 +46,7 @@
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="skill-item" style="height: 218px;">
-                    <img src="{{ asset('/profile/img/icon/ajax.png') }}" alt="ajax">
+                    <img src="{{ asset('/profile/img/icon/ajax.png') }}" alt="ajax" style="margin-bottom: 40px;">
                     <h2><span class="counter"> 65 </span><span>%</span></h2>
                     <p>AJAX</p>
                 </div>

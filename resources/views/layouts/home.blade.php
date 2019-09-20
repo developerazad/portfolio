@@ -66,12 +66,12 @@
 @include('layouts.modalPortfolio')
 
 <!-- Global javascript -->
-<script src="{{ asset('js/jquery/jquery.min.js') }}"></script>
-<script src="{{ asset('js/bootstrap/bootstrap.bundle.min.js') }}"></script>
-<script src="{{ asset('js/jquery-easing/jquery.easing.min.js') }}"></script>
-<script src="{{ asset('js/counter/jquery.waypoints.min.js') }}"></script>
-<script src="{{ asset('js/counter/jquery.counterup.min.js') }}"></script>
-<script src="{{ asset('js/custom.js') }}"></script>
+<script src="{{ asset('profile/js/jquery/jquery.min.js') }}"></script>
+<script src="{{ asset('profile/js/bootstrap/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('profile/js/jquery-easing/jquery.easing.min.js') }}"></script>
+<script src="{{ asset('profile/js/counter/jquery.waypoints.min.js') }}"></script>
+<script src="{{ asset('profile/js/counter/jquery.counterup.min.js') }}"></script>
+<script src="{{ asset('profile/js/custom.js') }}"></script>
 <script>
     $(document).ready(function(){
 
