@@ -1,7 +1,8 @@
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
     <div class="my-auto" >
-        <h2 class="mb-0" style="font-family: none;">Md. <span class="text-primary">Azharul</span>
-            Islam
+        <h4 style="text-transform: capitalize;font-family: 'Raleway', sans-serif;">Hi There..</h4>
+        <h2 class="mb-0" style="font-family: 'Raleway', sans-serif;text-transform:capitalize">Md. <span class="text-primary">Azharul</span>
+            Islam <span class="text-info" style="text-transform: lowercase;font-size: 20px;font-weight: normal">speaking</span>
         </h2>
         <div class="mb-5">Full Stack Web Developer/PHP Developer/PHP Programmer</div>
         <p class="mb-5" style="max-width: 500px;" >

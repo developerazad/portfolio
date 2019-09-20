@@ -18,9 +18,12 @@
     <link href="{{ asset('profile/css/devicons/css/devicons.min.css') }}" rel="stylesheet">
     <link href="{{ asset('profile/css/simple-line-icons/css/simple-line-icons.css') }}" rel="stylesheet">
     <link href="{{ asset('profile/css/style.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
 
     <style>
-
+        body{
+            font-family: 'Raleway', sans-serif;
+        }
     </style>
 </head>
 
