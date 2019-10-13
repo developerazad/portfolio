@@ -34,7 +34,8 @@
                 <div class="contact-mail contact-side-desc contact-box-desc">
                     <h3><i class="fa fa-envelope-o cl-atlantis fa-2x"></i> Email</h3>
                     <address class="address-details-f">
-                        Email: <a href="mailto:developerazad.hstu@gmail.com" class="">developerazad.hstu@gmail.com</a>
+                        <a href="mailto:developerazad.hstu@gmail.com" class="">developerazad.hstu@gmail.com</a>
+                        <a href="mailto:azad.ece13@gmail.com" class="">azad.ece13@gmail.com</a>
                     </address>
                     <ul class="list-inline social-icon-f top-data">
                         <li><a href="https://www.facebook.com/developerazad" target="_empty"><i class="fa top-social fa-facebook" style="color: #4267b2; border-color:#4267b2;"></i></a></li>

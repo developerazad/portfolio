@@ -29,7 +29,7 @@
 
 <body id="page-top">
 
-    @include('layouts.navbar')
+    @include('layouts.navBar')
     <div class="container-fluid p-0">
 
         <!--====================================================
@@ -66,6 +66,8 @@
                               CONTACT
         ======================================================-->
         @include('layouts.contact')
+
+        @include('layouts.footer')
 
 
     </div>
