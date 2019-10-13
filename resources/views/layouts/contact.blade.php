@@ -38,9 +38,9 @@
                         <a href="mailto:azad.ece13@gmail.com" class="">azad.ece13@gmail.com</a>
                     </address>
                     <ul class="list-inline social-icon-f top-data">
-                        <li><a href="https://www.facebook.com/developerazad" target="_empty"><i class="fa top-social fa-facebook" style="color: #4267b2; border-color:#4267b2;"></i></a></li>
                         <li><a href="https://linkedin.com/in/devloperazad" target="_empty"><i class="fa top-social fa-linkedin" style="color: #4AB3F4; border-color:#4AB3F4;"></i></a></li>
                         <li><a href="https://github.com/developerazad" target="_empty"><i class="fa top-social fa-github" style="color: #e24343; border-color:#e24343;"></i></a></li>
+                        <li><a href="https://www.facebook.com/developerazad" target="_empty"><i class="fa top-social fa-facebook" style="color: #4267b2; border-color:#4267b2;"></i></a></li>
                     </ul>
                 </div>
             </div>
