@@ -1,7 +1,7 @@
 <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="portfolio">
     <div class="row my-auto">
         <div class="col-12">
-            <h2 class="  text-center">Portfolio</h2>
+            <h2 class="text-center">Portfolio</h2>
             <div class="mb-3 heading-border"></div>
         </div>
         <div class="col-md-12">
@@ -10,6 +10,8 @@
                 <button class="btn btn-general btn-green filter-b" data-filter="web-design">Web Design</button>
                 <button class="btn btn-general btn-green filter-b" data-filter="web-apps">Web Apps</button>
                 <button class="btn btn-general btn-green filter-b" data-filter="theme">WordPress Theme</button>
+                <button class="btn btn-general btn-green filter-b" data-filter="laravel">PHP</button>
+                <button class="btn btn-general btn-green filter-b" data-filter="laravel">Laravel</button>
             </div>
         </div>
     </div>
