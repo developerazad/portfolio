@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5d081ed-f6f9-4852-8025-499d19928936" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/profile/img/devazad - Copy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/profile/img/devazad.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/profile/img/profile-banner-azad.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/profile/img/profile-banner-azad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/profile/img/portfolio/others-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/img/portfolio/others-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/profile/img/portfolio/others-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/img/portfolio/others-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/profile/img/portfolio/others-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/img/portfolio/others-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/profile/img/portfolio/others-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/profile/img/portfolio/others-4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/modalPortfolio.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/modalPortfolio.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/portfolio.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/portfolio.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,49 +19,30 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/portfolio.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="133" column="58" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#2;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#3;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#2;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#4;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#7;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#6;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#6;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#9;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#div#10;n#div#1;n#section#0;n#!!top" />
-                <element signature="n#a#0;n#div#10;n#div#1;n#section#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/modalPortfolio.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="310" column="107" selection-start-line="310" selection-start-column="107" selection-end-line="310" selection-end-column="107" />
+            <state relative-caret-position="521">
+              <caret line="23" column="381" selection-start-line="23" selection-start-column="381" selection-end-line="23" selection-end-column="381" />
+              <caret line="89" column="381" selection-start-line="89" selection-start-column="381" selection-end-line="89" selection-end-column="381" />
+              <caret line="155" column="381" selection-start-line="155" selection-start-column="381" selection-end-line="155" selection-end-column="381" />
+              <caret line="221" column="381" selection-start-line="221" selection-start-column="381" selection-end-line="221" selection-end-column="381" />
+              <caret line="290" column="381" selection-start-line="290" selection-start-column="381" selection-end-line="290" selection-end-column="381" />
+              <caret line="356" column="381" selection-start-line="356" selection-start-column="381" selection-end-line="356" selection-end-column="381" />
+              <caret line="422" column="381" selection-start-line="422" selection-start-column="381" selection-end-line="422" selection-end-column="381" />
+              <caret line="488" column="381" selection-start-line="488" selection-start-column="381" selection-end-line="488" selection-end-column="381" />
+              <caret line="557" column="381" selection-start-line="557" selection-start-column="381" selection-end-line="557" selection-end-column="381" />
+              <caret line="623" column="381" selection-start-line="623" selection-start-column="381" selection-end-line="623" selection-end-column="381" />
+              <caret line="689" column="381" selection-start-line="689" selection-start-column="381" selection-end-line="689" selection-end-column="381" />
+              <caret line="755" column="381" selection-start-line="755" selection-start-column="381" selection-end-line="755" selection-end-column="381" />
               <folding>
-                <element signature="n#div#0;n#!!top" />
-                <element signature="n#div#1;n#!!top" />
-                <element signature="n#div#2;n#!!top" />
-                <element signature="n#div#3;n#!!top" />
-                <element signature="n#div#4;n#!!top" />
-                <element signature="n#div#5;n#!!top" />
-                <element signature="n#div#6;n#!!top" />
-                <element signature="n#div#7;n#!!top" />
-                <element signature="n#div#8;n#!!top" />
-                <element signature="n#div#9;n#!!top" />
-                <element signature="n#div#10;n#!!top" />
-                <element signature="n#div#0;n#div#11;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#10;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -198,7 +179,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,6 +208,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,18 +260,19 @@
       <workItem from="1570901519026" duration="5050000" />
       <workItem from="1570983489840" duration="6708000" />
       <workItem from="1571074394888" duration="2198000" />
-      <workItem from="1571160078736" duration="7566000" />
+      <workItem from="1571160078736" duration="7950000" />
+      <workItem from="1571250745188" duration="4974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53132000" />
+    <option name="totallyTimeSpent" value="58490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21406959" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -446,21 +428,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/modalPortfolio.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="310" column="107" selection-start-line="310" selection-start-column="107" selection-end-line="310" selection-end-column="107" />
+        <state relative-caret-position="521">
+          <caret line="23" column="381" selection-start-line="23" selection-start-column="381" selection-end-line="23" selection-end-column="381" />
+          <caret line="89" column="381" selection-start-line="89" selection-start-column="381" selection-end-line="89" selection-end-column="381" />
+          <caret line="155" column="381" selection-start-line="155" selection-start-column="381" selection-end-line="155" selection-end-column="381" />
+          <caret line="221" column="381" selection-start-line="221" selection-start-column="381" selection-end-line="221" selection-end-column="381" />
+          <caret line="290" column="381" selection-start-line="290" selection-start-column="381" selection-end-line="290" selection-end-column="381" />
+          <caret line="356" column="381" selection-start-line="356" selection-start-column="381" selection-end-line="356" selection-end-column="381" />
+          <caret line="422" column="381" selection-start-line="422" selection-start-column="381" selection-end-line="422" selection-end-column="381" />
+          <caret line="488" column="381" selection-start-line="488" selection-start-column="381" selection-end-line="488" selection-end-column="381" />
+          <caret line="557" column="381" selection-start-line="557" selection-start-column="381" selection-end-line="557" selection-end-column="381" />
+          <caret line="623" column="381" selection-start-line="623" selection-start-column="381" selection-end-line="623" selection-end-column="381" />
+          <caret line="689" column="381" selection-start-line="689" selection-start-column="381" selection-end-line="689" selection-end-column="381" />
+          <caret line="755" column="381" selection-start-line="755" selection-start-column="381" selection-end-line="755" selection-end-column="381" />
           <folding>
-            <element signature="n#div#0;n#!!top" />
-            <element signature="n#div#1;n#!!top" />
-            <element signature="n#div#2;n#!!top" />
-            <element signature="n#div#3;n#!!top" />
-            <element signature="n#div#4;n#!!top" />
-            <element signature="n#div#5;n#!!top" />
-            <element signature="n#div#6;n#!!top" />
-            <element signature="n#div#7;n#!!top" />
-            <element signature="n#div#8;n#!!top" />
-            <element signature="n#div#9;n#!!top" />
-            <element signature="n#div#10;n#!!top" />
-            <element signature="n#div#0;n#div#11;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#10;n#!!top" />
           </folding>
         </state>
       </provider>

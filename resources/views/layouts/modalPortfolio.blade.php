@@ -21,21 +21,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/php-mysql-1.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Doctors Appointment Management</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap</a>
+                                        </strong>
+                                    </li>
+                                    <li>Programming Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://developerazad.com/project/appoinment/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -72,21 +87,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/php-mysql-2.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Blood Management System</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap</a>
+                                        </strong>
+                                    </li>
+                                    <li>Programming Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://developerazad.com/project/blood/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -123,21 +153,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/php-mysql-3.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Online Shopping System</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap</a>
+                                        </strong>
+                                    </li>
+                                    <li>Programming Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://developerazad.com/project/tour/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -174,21 +219,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/php-mysql-4.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Tour & Travel Management</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap</a>
+                                        </strong>
+                                    </li>
+                                    <li>Programming Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://developerazad.com/project/shopping/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -228,21 +288,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/laravel-1.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">ShopCare</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, AJAX</a>
+                                        </strong>
+                                    </li>
+                                    <li> Backend:
+                                        <strong>
+                                            <a href="#">Laravel 5.6</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="https://github.com/developerazad/ecommerce/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -279,21 +354,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/laravel-2.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Photo Gallery</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, AJAX</a>
+                                        </strong>
+                                    </li>
+                                    <li> Backend:
+                                        <strong>
+                                            <a href="#">Laravel 5.6</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="https://github.com/developerazad/photogallary/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -330,21 +420,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/laravel-3.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Salesforce (E-commerce application)</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, AJAX</a>
+                                        </strong>
+                                    </li>
+                                    <li> Backend:
+                                        <strong>
+                                            <a href="#">Laravel 5.8</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="#" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -381,21 +486,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/laravel-4.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Universal Salt Iodization Mangement Informaiton System</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 4, AJAX</a>
+                                        </strong>
+                                    </li>
+                                    <li> Backend:
+                                        <strong>
+                                            <a href="#">Laravel 5.8</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="#" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -435,21 +555,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/others-1.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">CRUD Operation using PHP and MySQLi</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 3</a>
+                                        </strong>
+                                    </li>
+                                    <li> Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="https://www.youtube.com/watch?v=B1RhRrUA0YI" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -486,21 +621,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/others-2.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">CRUD Operation using PHP and MySQLi</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 3</a>
+                                        </strong>
+                                    </li>
+                                    <li> Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="https://www.youtube.com/watch?v=TdjQOrOK8o0" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -537,21 +687,36 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/others-3.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">FlyingBird (WordPress Theme)</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript, jQuery, Bootstrap 3</a>
+                                        </strong>
+                                    </li>
+                                    <li> Language:
+                                        <strong>
+                                            <a href="#">PHP</a>
+                                        </strong>
+                                    </li>
+                                    <li>Database:
+                                        <strong>
+                                            <a href="#">MySQL</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
                                             <a href="#">Web Development</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://www.developerazad.com/wordpress/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
@@ -588,21 +753,26 @@
                                 <img class="img-fluid img-centered" src="{{ asset('profile/img/portfolio/others-4.png') }}" alt="">
                             </div>
                             <div class="col-md-6">
-                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services. In line with this vision, Success was approached to find new payments solutions to offer Payfast customers on their website, including open invoice and partial payments options.</p>
+                                <p>Our new Project every processes had become fragmented; meaning quality and service were inconsistent. This lack of standardization was adversely impacting operating costs, productivity and customer satisfaction. For several years now Payfast has worked strategically with innovations as a means of developing new solutions, products and services.</p>
                                 <ul class="list-inline item-details">
-                                    <li>Client:
+                                    <li>Name:
                                         <strong>
-                                            <a href="#">Techs Soft</a>
+                                            <a href="#">Webmaker</a>
                                         </strong>
                                     </li>
-                                    <li>Date:
+                                    <li>Technology Used:
                                         <strong>
-                                            <a href="#">April 2018</a>
+                                            <a href="#">HTML5, CSS3, JavaScript,Bootstrap 3</a>
                                         </strong>
                                     </li>
                                     <li>Service:
                                         <strong>
-                                            <a href="#">Web Development</a>
+                                            <a href="#">Web Design</a>
+                                        </strong>
+                                    </li>
+                                    <li>Link:
+                                        <strong>
+                                            <a href="http://developerazad.com/portfolio/template/07/index.html" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>
