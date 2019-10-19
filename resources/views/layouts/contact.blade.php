@@ -17,7 +17,7 @@
                     <input type="text" name="subject" placeholder="Subject" class="form-control">
                 </div>
                 <div class="col-md-12"><textarea name="" id="" ></textarea></div>
-                <div class="col-md-12 sub-but"><button class="btn btn-general btn-white" role="button">Send</button></div>
+                <div class="col-md-12 sub-but"><a href="#about"><button class="btn btn-general btn-white" role="button">Send</button></a></div>
             </div>
         </div>
         <div class="col-md-4 col-sm-12 mt-5">

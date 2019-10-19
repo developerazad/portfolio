@@ -449,7 +449,7 @@
                                     </li>
                                     <li>Link:
                                         <strong>
-                                            <a href="#" target="_blank">Clink Here</a>
+                                            <a href="http://163.47.146.233:8072/salesforce/" target="_blank">Clink Here</a>
                                         </strong>
                                     </li>
                                 </ul>

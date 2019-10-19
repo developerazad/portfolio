@@ -26,13 +26,10 @@
                 <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+                <a class="nav-link js-scroll-trigger" href="#certification">Certification</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#awards">Certification</a>
+                <a class="nav-link js-scroll-trigger" href="#award">Awards</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
